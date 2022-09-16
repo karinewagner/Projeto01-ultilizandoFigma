@@ -8,5 +8,5 @@
 - Git e Github
 </br>
 
-[Clique aqui para acessar](https://karinewagner.github.io/NLWSports/) ☺️👍
+[Clique aqui para acessar](https://karinewagner.github.io/Projeto01-ultilizandoFigma) ☺️👍
 ![preview](./.github/preview.png) 
